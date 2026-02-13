@@ -1,2 +1,58 @@
-# 06-Time-Series_Analysis_of_COVID-19_Data_Spring_2026.ipynb
-Time-Series Analysis of COVID-19 Data. Performed data cleaning, datetime conversion, and time-series analysis using Python and Pandas. Applied daily, quarterly, and monthly aggregations, regional comparisons, peak case identification, and pivot tables to generate analytical insights.
+📊 Time-Series Analysis of COVID-19 Data — Spring Internship 2026
+
+This project focuses on performing exploratory data analysis and time-series aggregation on global COVID-19 data to understand pandemic trends across countries and WHO regions. The analysis involves data preprocessing, temporal filtering, statistical aggregation, and regional comparisons using Python and Pandas.
+
+🔹 Project Objectives
+
+Analyze global COVID-19 case trends over time
+
+Identify highly affected countries and regions
+
+Perform time-based aggregation (daily, monthly, quarterly)
+
+Generate structured analytical tables for reporting and insights
+
+🔹 Key Tasks Performed
+
+Imported and cleaned real-world COVID-19 dataset
+
+Converted date fields into datetime format for time-series analysis
+
+Filtered data within a defined pandemic timeline
+
+Identified top affected countries based on cumulative cases
+
+Calculated daily global case trends
+
+Aggregated cases and deaths quarterly
+
+Analyzed total cases across WHO regions
+
+Detected peak global infection day
+
+Built monthly pivot tables for regional comparison
+
+🔹 Tools & Technologies
+
+Python
+
+Pandas
+
+Google Colab
+
+GitHub
+
+🔹 Key Learning Outcomes
+
+Time-series data handling and transformation
+
+Data aggregation using groupby and pivot tables
+
+Real-world dataset preprocessing
+
+Analytical reporting using Python
+
+🔹 Author
+
+Raunak Sen
+Spring Internship 2026
