@@ -55,4 +55,5 @@ Analytical reporting using Python
 🔹 Author
 
 Raunak Sen
-Spring Internship 2026
+Spring Internship 2026 - 
+IDEAS - Institute of Data Engineering, Analytics and Science Foundation
