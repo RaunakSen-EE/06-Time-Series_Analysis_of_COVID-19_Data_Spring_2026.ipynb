@@ -57,3 +57,5 @@ Analytical reporting using Python
 Raunak Sen
 Spring Internship 2026 - 
 IDEAS - Institute of Data Engineering, Analytics and Science Foundation
+## Link to the colab
+https://colab.research.google.com/drive/1x6ucXaqY09eegPtGsigBjyy5YOX2_LrV?usp=sharing
