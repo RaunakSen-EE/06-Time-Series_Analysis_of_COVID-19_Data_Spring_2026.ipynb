@@ -2,7 +2,7 @@
 
 This project focuses on performing exploratory data analysis and time-series aggregation on global COVID-19 data to understand pandemic trends across countries and WHO regions. The analysis involves data preprocessing, temporal filtering, statistical aggregation, and regional comparisons using Python and Pandas.
 
-🔹 Project Objectives
+# Project Objectives
 
 Analyze global COVID-19 case trends over time
 
@@ -12,7 +12,7 @@ Perform time-based aggregation (daily, monthly, quarterly)
 
 Generate structured analytical tables for reporting and insights
 
-🔹 Key Tasks Performed
+# Key Tasks Performed
 
 Imported and cleaned real-world COVID-19 dataset
 
@@ -32,7 +32,7 @@ Detected peak global infection day
 
 Built monthly pivot tables for regional comparison
 
-🔹 Tools & Technologies
+# Tools & Technologies
 
 Python
 
@@ -42,7 +42,7 @@ Google Colab
 
 GitHub
 
-🔹 Key Learning Outcomes
+# Key Learning Outcomes
 
 Time-series data handling and transformation
 
@@ -52,7 +52,7 @@ Real-world dataset preprocessing
 
 Analytical reporting using Python
 
-🔹 Author
+# Author
 
 Raunak Sen
 Spring Internship 2026 - 
